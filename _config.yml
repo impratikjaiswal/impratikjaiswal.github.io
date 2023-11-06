@@ -9,15 +9,15 @@ plugins:
 remote_theme: pages-themes/architect@v0.2.0
 
 # }**************************************************{ 
-# title: [Excel Play]
-description: Bookmark this to keep an eye on my project updates!
+title: [Pratik Jaiswal]
+description: Bookmark this to keep an eye on my project(s) updates !!!
 
 # }**************************************************{ 
 # to preview your site on your computer, add the following to your site's Gemfile:
 # gem "github-pages", group: :jekyll_plugins
 
 # }**************************************************{ 
-show_downloads: true
+show_downloads: false
 
 # }**************************************************{ 
 # google_analytics: [Your Google Analytics tracking ID]
